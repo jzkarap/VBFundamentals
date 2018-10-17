@@ -1,0 +1,10 @@
+C:\Users\JohnKaraplis\Desktop\VB Fundamentals\Enumerations\Enumerations\bin\Debug\netcoreapp2.1\Enumerations.deps.json
+C:\Users\JohnKaraplis\Desktop\VB Fundamentals\Enumerations\Enumerations\bin\Debug\netcoreapp2.1\Enumerations.runtimeconfig.json
+C:\Users\JohnKaraplis\Desktop\VB Fundamentals\Enumerations\Enumerations\bin\Debug\netcoreapp2.1\Enumerations.runtimeconfig.dev.json
+C:\Users\JohnKaraplis\Desktop\VB Fundamentals\Enumerations\Enumerations\bin\Debug\netcoreapp2.1\Enumerations.dll
+C:\Users\JohnKaraplis\Desktop\VB Fundamentals\Enumerations\Enumerations\bin\Debug\netcoreapp2.1\Enumerations.pdb
+C:\Users\JohnKaraplis\Desktop\VB Fundamentals\Enumerations\Enumerations\obj\Debug\netcoreapp2.1\Enumerations.vbproj.CoreCompileInputs.cache
+C:\Users\JohnKaraplis\Desktop\VB Fundamentals\Enumerations\Enumerations\obj\Debug\netcoreapp2.1\Enumerations.AssemblyInfoInputs.cache
+C:\Users\JohnKaraplis\Desktop\VB Fundamentals\Enumerations\Enumerations\obj\Debug\netcoreapp2.1\Enumerations.AssemblyInfo.vb
+C:\Users\JohnKaraplis\Desktop\VB Fundamentals\Enumerations\Enumerations\obj\Debug\netcoreapp2.1\Enumerations.dll
+C:\Users\JohnKaraplis\Desktop\VB Fundamentals\Enumerations\Enumerations\obj\Debug\netcoreapp2.1\Enumerations.pdb

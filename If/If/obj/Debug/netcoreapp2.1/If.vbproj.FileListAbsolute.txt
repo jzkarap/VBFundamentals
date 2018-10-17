@@ -1,0 +1,11 @@
+C:\Users\JohnKaraplis\Desktop\VB Fundamentals\If\If\bin\Debug\netcoreapp2.1\If.deps.json
+C:\Users\JohnKaraplis\Desktop\VB Fundamentals\If\If\bin\Debug\netcoreapp2.1\If.runtimeconfig.json
+C:\Users\JohnKaraplis\Desktop\VB Fundamentals\If\If\bin\Debug\netcoreapp2.1\If.runtimeconfig.dev.json
+C:\Users\JohnKaraplis\Desktop\VB Fundamentals\If\If\bin\Debug\netcoreapp2.1\If.dll
+C:\Users\JohnKaraplis\Desktop\VB Fundamentals\If\If\bin\Debug\netcoreapp2.1\If.pdb
+C:\Users\JohnKaraplis\Desktop\VB Fundamentals\If\If\obj\Debug\netcoreapp2.1\If.vbprojAssemblyReference.cache
+C:\Users\JohnKaraplis\Desktop\VB Fundamentals\If\If\obj\Debug\netcoreapp2.1\If.vbproj.CoreCompileInputs.cache
+C:\Users\JohnKaraplis\Desktop\VB Fundamentals\If\If\obj\Debug\netcoreapp2.1\If.AssemblyInfoInputs.cache
+C:\Users\JohnKaraplis\Desktop\VB Fundamentals\If\If\obj\Debug\netcoreapp2.1\If.AssemblyInfo.vb
+C:\Users\JohnKaraplis\Desktop\VB Fundamentals\If\If\obj\Debug\netcoreapp2.1\If.dll
+C:\Users\JohnKaraplis\Desktop\VB Fundamentals\If\If\obj\Debug\netcoreapp2.1\If.pdb

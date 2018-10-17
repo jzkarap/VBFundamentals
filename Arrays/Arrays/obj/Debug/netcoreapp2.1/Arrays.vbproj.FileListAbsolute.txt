@@ -1,0 +1,11 @@
+C:\Users\JohnKaraplis\Desktop\VB Fundamentals\Arrays\Arrays\bin\Debug\netcoreapp2.1\Arrays.deps.json
+C:\Users\JohnKaraplis\Desktop\VB Fundamentals\Arrays\Arrays\bin\Debug\netcoreapp2.1\Arrays.runtimeconfig.json
+C:\Users\JohnKaraplis\Desktop\VB Fundamentals\Arrays\Arrays\bin\Debug\netcoreapp2.1\Arrays.runtimeconfig.dev.json
+C:\Users\JohnKaraplis\Desktop\VB Fundamentals\Arrays\Arrays\bin\Debug\netcoreapp2.1\Arrays.dll
+C:\Users\JohnKaraplis\Desktop\VB Fundamentals\Arrays\Arrays\bin\Debug\netcoreapp2.1\Arrays.pdb
+C:\Users\JohnKaraplis\Desktop\VB Fundamentals\Arrays\Arrays\obj\Debug\netcoreapp2.1\Arrays.vbprojAssemblyReference.cache
+C:\Users\JohnKaraplis\Desktop\VB Fundamentals\Arrays\Arrays\obj\Debug\netcoreapp2.1\Arrays.vbproj.CoreCompileInputs.cache
+C:\Users\JohnKaraplis\Desktop\VB Fundamentals\Arrays\Arrays\obj\Debug\netcoreapp2.1\Arrays.AssemblyInfoInputs.cache
+C:\Users\JohnKaraplis\Desktop\VB Fundamentals\Arrays\Arrays\obj\Debug\netcoreapp2.1\Arrays.AssemblyInfo.vb
+C:\Users\JohnKaraplis\Desktop\VB Fundamentals\Arrays\Arrays\obj\Debug\netcoreapp2.1\Arrays.dll
+C:\Users\JohnKaraplis\Desktop\VB Fundamentals\Arrays\Arrays\obj\Debug\netcoreapp2.1\Arrays.pdb
