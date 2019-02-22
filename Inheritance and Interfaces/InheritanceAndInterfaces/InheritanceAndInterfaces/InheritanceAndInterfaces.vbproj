@@ -68,6 +68,11 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Circle.vb" />
+    <Compile Include="Employee.vb" />
+    <Compile Include="IXmlExport.vb" />
+    <Compile Include="Shape.vb" />
+    <Compile Include="Square.vb" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
